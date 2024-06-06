@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Log.com</title>
+    <link rel="stylesheet" href="style.css">
+    <script src="https://kit.fontawesome.com/3b7f857ba5.js" crossorigin="anonymous"></script>
+</head>
+
+<body>
+    <header>
+        <div class="topMenu">
+            <ul>
+                <div class="aboutUser">
+                    <li class="userAvatar"><img src="imgSource/userAvatar/Stephen.avif" alt="User Avatar"></li>
+                    <li id="userName"><span>Stephen</span></li>
+                </div>
+                <div class="logo">
+                    <div><a href="#"><span>Log</span>.com</a></div>
+                </div>
+                <div class="rightBar">
+                    <li id="searchBar"><input type="search" placeholder="Search here !"></li>
+                    <li id="extendedMenu"><i class="fa-solid fa-bars"></i></li>
+                </div>
+            </ul>
+
+        </div>
+    </header>
+    <main>
+        <div id="leftMenu">
+            <ul>
+                <li><a href="#"><i class="fa-solid fa-bars-progress" style="color:rgb(0,184,255)"></i> Collections</a>
+                </li>
+                <li><a href="#"><i class="fa-regular fa-heart" style="color: red;"></i> Favourites</a></li>
+                <li><a href="#"><i class="fa-solid fa-clock-rotate-left" style="color: rgb(0,155,214);"></i> History</a>
+                </li>
+                <li><a href="#"><i class="fa-regular fa-bookmark" style="color: rgb(0,65,90);"></i> Saved</a></li>
+                <li><a href="#"><i class="fa-solid fa-list-check" style="color: rgb#575757;"></i> Ad management</a></li>
+                <li><a href="#"><i class="fa-solid fa-plus" style="color: rgb(0,155,214);"></i> Create</a></li>
+                <div></div>
+            </ul>
+        </div>
+
+        <div id="main">
+            <embed id="userPosts" src="main/main.html" type="text/html">
+        </div>
+
+        <div id="rightMenu">
+            <h3><i class="fa-solid fa-bell"></i> Notifications</h3>
+            <ul id="notifications">
+                <li class="userAvatar"><a href="#">
+                        <div class="noti">
+                            <a class="user" href="#"><img src="imgSource/userAvatar/Anne.avif" alt=""></a>
+                            <a href="#">
+                                <p><span id="NameofUser">Anne! </span> posted a blog about:<br>"My trip !"</p>
+                            </a>
+                        </div>
+                </li>
+                <li class="userAvatar"><a href="#">
+                        <div class="noti">
+                            <a class="user" href="#"><img src="imgSource/userAvatar/John.avif" alt=""></a>
+                            <a href="#">
+                                <p><span id="NameofUser">John </span> posted a blog about:<br>"My first day at work."
+                                </p>
+                            </a>
+                        </div>
+                </li>
+                <li class="userAvatar"><a href="#">
+                        <div class="noti">
+                            <a class="user" href="#"><img src="imgSource/userAvatar/Bob.avif" alt=""></a>
+                            <a href="#">
+                                <p><span id="NameofUser">Bob </span> posted a blog about:<br>"Chalifornia ! I love you
+                                    !"</p>
+                            </a>
+                        </div>
+                </li>
+                <li class="userAvatar"><a href="#">
+                        <div class="noti">
+                            <a class="user" href="#"><img src="imgSource/userAvatar/Stephen.avif" alt=""></a>
+                            <a href="#">
+                                <p><span id="NameofUser">Stephen </span> posted a blog about:<br>This project is
+                                    beautiful.</p>
+                            </a>
+                        </div>
+                </li>
+
+                <div id="more"><span></span><i class="fa-solid fa-ellipsis"></i><span></span></div>
+            </ul>
+        </div>
+    </main>
+    <footer>
+        <ul>
+            <li><a href="#"><i class="fa-regular fa-copyright"></i> Log.</a></li>
+            <li><a href="#">Privacy.</a></li>
+            <li><a href="#">Terms.</a></li>
+            <li><a href="#">Cookies.</a></li>
+            <li><a href="#">More.</a></li>
+        </ul>
+    </footer>
+</body>
+
+</html>
