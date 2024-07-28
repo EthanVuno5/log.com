@@ -1,0 +1,112 @@
+{
+    "users": {
+        "stephenSon": {
+            "userName": "Stephen",
+            "userDirect": "@stephenSon",
+            "avatar": "../imgSource/userAvatar/Stephen.avif",
+            "id": "123456",
+            "post": {
+                "post1": {
+                    "header": "What a beautiful project.",
+                    "content": "Shortly before 9 AM on November 4th, 2019, I arrived for my first day at my new job. Based on the interview process and my research into the company, it definitely seemed like a good fit, but after a not-so-great experience at my last job, I was still a little nervous and unsure what to expect.<br><br>In the month (plus a few days) since that first day, most of the people I have spoken to about my job have noted the same thing - that I seem happy. In the early days of my last job I wasn't quite so sure that I was happy at the company, and I wasn't sure how long it would take me to adjust to this job. I'm very glad that not only am I feeling happy about my job, but that the job is having a positive enough effect on me that my friends and family have noticed.<br><br>Things started off well at this job from day one. This company was pretty organized in terms of being ready for new hires. I had my schedule before the day began, and when I got to the office, my computer and keycard were waiting for me. My swag was not there because they were out of some sizes, but I did eventually receive a t-shirt, a water bottle, and a super comfy sweatshirt. Once I was all settled in and had met my fellow new hires, it was time for the formal orientation to begin. Or, as I like to call it, information overload. In my first three days I learned and then forgot more about my company than I ever thought I would.<br><br>The opportunity to meet my new coworkers started early as well. At the end of our first day of orientation, we had an event called \"Cookies with Rookies\", where the entire office is invited to eat some cookies and meet the class of new hires. It was a great way for me to meet some new people, including some of my fellow engineers. I actually have not been to a Cookies with Rookies since my own orientation (just a combination of not feeling well and being busy), but I loved how welcoming the event was and I want to try to make an effort to go welcome rookies in the future. The new hires also introduced ourselves to the entire company on Thursday of our first week, at the company-wide Town Hall event.<br><br>During my second week at the company, we had our all-company onsite, where many of our remote employees came to the NYC office for various workshops, events, and team outings. I had an opportunity to meet some new people, and got to spend more time with some of the people I had met previously. We also had our company holiday party during that week, and while that wasn't the most comfortable event for me, it was great to see so many people celebrating together. Over the course of the next few weeks, I occasionally ate lunch with some of my teammates and coworkers, and one of of the themes of my first few weeks was learning that people do genuinely enjoy spending time together.",
+                    "image": "../imgSource/postImg/Hodophile-A-Person-who-Loves-to-Travel.webp",
+                    "information": {
+                        "createDate": "12/2/2024",
+                        "createTime": "9:00pm",
+                        "hastag": [
+                            "Work",
+                            "Experience",
+                            "Project"
+                        ],
+                        "hearts": "3.2k",
+                        "comments": {
+                            "amount": "3k"
+                        },
+                        "share": "2k"
+                    }
+                }
+            }
+        },
+        "anneMarie": {
+            "userName": "Anne",
+            "userDirect": "@anneMarie",
+            "avatar": "../imgSource/userAvatar/Anne.avif",
+            "id": "123456",
+            "post": {
+                "post1": {
+                    "header": "What a beautiful project.",
+                    "content": "Shortly before 9 AM on November 4th, 2019, I arrived for my first day at my new job. Based on the interview process and my research into the company, it definitely seemed like a good fit, but after a not-so-great experience at my last job, I was still a little nervous and unsure what to expect.<br>In the month (plus a few days) since that first day, most of the people I have spoken to about my job have noted the same thing - that I seem happy. In the early days of my last job I wasn't quite so sure that I was happy at the company, and I wasn't sure how long it would take me to adjust to this job. I'm very glad that not only am I feeling happy about my job, but that the job is having a positive enough effect on me that my friends and family have noticed.<br>Things started off well at this job from day one. This company was pretty organized in terms of being ready for new hires. I had my schedule before the day began, and when I got to the office, my computer and keycard were waiting for me. My swag was not there because they were out of some sizes, but I did eventually receive a t-shirt, a water bottle, and a super comfy sweatshirt. Once I was all settled in and had met my fellow new hires, it was time for the formal orientation to begin. Or, as I like to call it, information overload. In my first three days I learned and then forgot more about my company than I ever thought I would.<br>The opportunity to meet my new coworkers started early as well. At the end of our first day of orientation, we had an event called \"Cookies with Rookies\", where the entire office is invited to eat some cookies and meet the class of new hires. It was a great way for me to meet some new people, including some of my fellow engineers. I actually have not been to a Cookies with Rookies since my own orientation (just a combination of not feeling well and being busy), but I loved how welcoming the event was and I want to try to make an effort to go welcome rookies in the future. The new hires also introduced ourselves to the entire company on Thursday of our first week, at the company-wide Town Hall event.<br>During my second week at the company, we had our all-company onsite, where many of our remote employees came to the NYC office for various workshops, events, and team outings. I had an opportunity to meet some new people, and got to spend more time with some of the people I had met previously. We also had our company holiday party during that week, and while that wasn't the most comfortable event for me, it was great to see so many people celebrating together. Over the course of the next few weeks, I occasionally ate lunch with some of my teammates and coworkers, and one of of the themes of my first few weeks was learning that people do genuinely enjoy spending time together.",
+                    "image": "../imgSource/postImg/Cheap-travel.webp",
+                    "information": {
+                        "createDate": "12/2/2024",
+                        "createTime": "9:00pm",
+                        "hastag": [
+                            "Work",
+                            "Experience",
+                            "Project"
+                        ],
+                        "hearts": "3.2k",
+                        "comments": {
+                            "amount": "3k"
+                        },
+                        "share": "2k"
+                    }
+                }
+            }
+        },
+        "bobTheOffice": {
+            "userName": "Bob",
+            "userDirect": "@bobTheOffice",
+            "avatar": "../imgSource/userAvatar/Bob.avif",
+            "id": "123456",
+            "post": {
+                "post1": {
+                    "header": "What a beautiful project.",
+                    "content": "Shortly before 9 AM on November 4th, 2019, I arrived for my first day at my new job. Based on the interview process and my research into the company, it definitely seemed like a good fit, but after a not-so-great experience at my last job, I was still a little nervous and unsure what to expect.<br>In the month (plus a few days) since that first day, most of the people I have spoken to about my job have noted the same thing - that I seem happy. In the early days of my last job I wasn't quite so sure that I was happy at the company, and I wasn't sure how long it would take me to adjust to this job. I'm very glad that not only am I feeling happy about my job, but that the job is having a positive enough effect on me that my friends and family have noticed.<br>Things started off well at this job from day one. This company was pretty organized in terms of being ready for new hires. I had my schedule before the day began, and when I got to the office, my computer and keycard were waiting for me. My swag was not there because they were out of some sizes, but I did eventually receive a t-shirt, a water bottle, and a super comfy sweatshirt. Once I was all settled in and had met my fellow new hires, it was time for the formal orientation to begin. Or, as I like to call it, information overload. In my first three days I learned and then forgot more about my company than I ever thought I would.<br>The opportunity to meet my new coworkers started early as well. At the end of our first day of orientation, we had an event called \"Cookies with Rookies\", where the entire office is invited to eat some cookies and meet the class of new hires. It was a great way for me to meet some new people, including some of my fellow engineers. I actually have not been to a Cookies with Rookies since my own orientation (just a combination of not feeling well and being busy), but I loved how welcoming the event was and I want to try to make an effort to go welcome rookies in the future. The new hires also introduced ourselves to the entire company on Thursday of our first week, at the company-wide Town Hall event.<br>During my second week at the company, we had our all-company onsite, where many of our remote employees came to the NYC office for various workshops, events, and team outings. I had an opportunity to meet some new people, and got to spend more time with some of the people I had met previously. We also had our company holiday party during that week, and while that wasn't the most comfortable event for me, it was great to see so many people celebrating together. Over the course of the next few weeks, I occasionally ate lunch with some of my teammates and coworkers, and one of of the themes of my first few weeks was learning that people do genuinely enjoy spending time together.",
+                    "image": "../imgSource/postImg/Bob-Burger.jpg",
+                    "information": {
+                        "createDate": "12/2/2024",
+                        "createTime": "9:00pm",
+                        "hastag": [
+                            "Work",
+                            "Experience",
+                            "Project"
+                        ],
+                        "hearts": "3.2k",
+                        "comments": {
+                            "amount": "3k"
+                        },
+                        "share": "2k"
+                    }
+                }
+            }
+        },
+        "JohnOldMan": {
+            "userName": "John",
+            "userDirect": "@JohnOldMan",
+            "avatar": "../imgSource/userAvatar/John.avif",
+            "id": "123456",
+            "post": {
+                "post1": {
+                    "header": "What a beautiful project.",
+                    "content": "Shortly before 9 AM on November 4th, 2019, I arrived for my first day at my new job. Based on the interview process and my research into the company, it definitely seemed like a good fit, but after a not-so-great experience at my last job, I was still a little nervous and unsure what to expect.<br>In the month (plus a few days) since that first day, most of the people I have spoken to about my job have noted the same thing - that I seem happy. In the early days of my last job I wasn't quite so sure that I was happy at the company, and I wasn't sure how long it would take me to adjust to this job. I'm very glad that not only am I feeling happy about my job, but that the job is having a positive enough effect on me that my friends and family have noticed.<br>Things started off well at this job from day one. This company was pretty organized in terms of being ready for new hires. I had my schedule before the day began, and when I got to the office, my computer and keycard were waiting for me. My swag was not there because they were out of some sizes, but I did eventually receive a t-shirt, a water bottle, and a super comfy sweatshirt. Once I was all settled in and had met my fellow new hires, it was time for the formal orientation to begin. Or, as I like to call it, information overload. In my first three days I learned and then forgot more about my company than I ever thought I would.<br>The opportunity to meet my new coworkers started early as well. At the end of our first day of orientation, we had an event called \"Cookies with Rookies\", where the entire office is invited to eat some cookies and meet the class of new hires. It was a great way for me to meet some new people, including some of my fellow engineers. I actually have not been to a Cookies with Rookies since my own orientation (just a combination of not feeling well and being busy), but I loved how welcoming the event was and I want to try to make an effort to go welcome rookies in the future. The new hires also introduced ourselves to the entire company on Thursday of our first week, at the company-wide Town Hall event.<br>During my second week at the company, we had our all-company onsite, where many of our remote employees came to the NYC office for various workshops, events, and team outings. I had an opportunity to meet some new people, and got to spend more time with some of the people I had met previously. We also had our company holiday party during that week, and while that wasn't the most comfortable event for me, it was great to see so many people celebrating together. Over the course of the next few weeks, I occasionally ate lunch with some of my teammates and coworkers, and one of of the themes of my first few weeks was learning that people do genuinely enjoy spending time together.",
+                    "image": "../imgSource/postImg/myFirstDayAtWork.avif",
+                    "information": {
+                        "createDate": "12/2/2024",
+                        "createTime": "9:00pm",
+                        "hastag": [
+                            "Work",
+                            "Experience",
+                            "Project"
+                        ],
+                        "hearts": "3.2k",
+                        "comments": {
+                            "amount": "3k"
+                        },
+                        "share": "2k"
+                    }
+                }
+            }
+        }
+    }
+}
